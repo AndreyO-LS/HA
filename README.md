@@ -11,3 +11,9 @@ Your have 4 honey pots for the whole course: 🍯🍯🍯🍯. Each honey pot al
 3. Upload the files into your HA repository 
 
 🔗 Nice course ablut git: https://www.datacamp.com/courses/introduction-to-git
+
+
+
+| HA | Topic| Deadline|
+| ------------- | ------------- |------------- |
+| 💻 HA 1 Practice  | Basic manipulation with data |05/11/2024 00:00 |
