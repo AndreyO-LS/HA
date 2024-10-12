@@ -10,9 +10,9 @@ Your have 4 honey pots for the whole course: 🍯🍯🍯🍯. Each honey pot al
 2. Accept invitation to classroom: https://classroom.github.com/a/IcOSSRIC
 3. Upload the files into your HA repository 
 
-🔗 Nice course ablut git: https://www.datacamp.com/courses/introduction-to-git
+🔗 Nice course aboutt git: https://www.datacamp.com/courses/introduction-to-git
 
-
+## \newline
 
 | HA | Topic| Deadline|
 | ------------- | ------------- |------------- |
