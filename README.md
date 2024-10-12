@@ -12,7 +12,7 @@ Your have 4 honey pots for the whole course: 🍯🍯🍯🍯. Each honey pot al
 
 🔗 Nice course aboutt git: https://www.datacamp.com/courses/introduction-to-git
 
-## \newline
+&NewLine;
 
 | HA | Topic| Deadline|
 | ------------- | ------------- |------------- |
