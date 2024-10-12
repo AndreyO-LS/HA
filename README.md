@@ -1,7 +1,7 @@
 # HA
 
 
-🍯 **Honey-pot sumbmission policy**
+🍯 **Honey-pot submission policy**
 
 Your have 4 honey pots for the whole course: 🍯🍯🍯🍯. Each honey pot allows you to suspend the deadline of an assignment submission for 1 day. Each honey pot can be used only once, so use them wisely. You can't use honey pots to suspend the deadline of the final group project.
 
